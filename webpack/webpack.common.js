@@ -80,7 +80,5 @@ module.exports = {
 
         ]
     },
-    plugins: [
-
-    ]
+    
 };
